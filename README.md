@@ -49,6 +49,8 @@ Don’t miss out on these gems! Sign up here to stay updated: [Newsletter Link](
 3. **Learn**, **tinker**, and **experiment**! 
 4. Feel free to reach out if you have questions or want to share your progress. I love seeing how others take these projects and make them their own!
 
+
+
    
 
 ## Contributions Welcome! 🤝
@@ -56,11 +58,14 @@ Don’t miss out on these gems! Sign up here to stay updated: [Newsletter Link](
 If you have ideas or improvements for any of the repos, feel free to **open an issue** or **submit a pull request**. Let's learn and grow together as a community.
 
 
+
+
 ## License
 
-All of my repository is licensed under the MIT License. You are free to use, modify, and distribute the code as long as you include the original copyright notice.
+All of my repository is licensed under the MIT License. You are free to use, modify, and distribute the code.
 
 [Read the full MIT License here](https://opensource.org/licenses/MIT).
+
 
 
 
@@ -71,6 +76,7 @@ All of my repository is licensed under the MIT License. You are free to use, mod
 - **GitHub**: You're already here, so feel free to browse through the repos and get started!
 
 ---
+
 
 Remember, **learning is a journey**. 
 
