@@ -17,8 +17,8 @@ Whether you're just starting out or looking to level up, there's something here 
   From beginner-friendly projects to more advanced topics, you'll get hands-on practice that will help you sharpen your skills and tackle real-world problems.
 
   
-- **Switch to IT**: If you're working outside the tech industry and thinking about switching into IT, these repos might be exactly what you need to get started! #
-  I focus on practical projects that can help you **build a portfolio**, **showcase your skills**, and **get job-ready** for a career in tech.
+- **Switch to IT**: If you're working outside the tech industry and thinking about switching into IT, these repos might be exactly what you need to get started!
+   I focus on practical projects that can help you **build a portfolio**, **showcase your skills**, and **get job-ready** for a career in tech.
   
   
 - **Pro Tips**: Along with code, I also share **pro tips** and **best practices** that can make a difference in how you approach learning and coding.
